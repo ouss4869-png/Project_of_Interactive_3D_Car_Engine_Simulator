@@ -1,0 +1,6 @@
+{
+  "name": "Interactive 3D Car Engine Simulator",
+  "description": "High-fidelity interactive 3D simulation of an inline 4-cylinder DOHC 4-stroke internal combustion engine with real-time crank kinematics, valve timing, and exploded inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
